@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '7714'
     url: http://www.gutenberg.org/2009/agents/7714
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17940#EurimedonL-illustre-pirate
 gutenberg_bookshelf:
 - Pirates, Buccaneers, Corsairs, etc.
 - FR Théâtre
